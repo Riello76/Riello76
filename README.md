@@ -1,28 +1,43 @@
-## Welcome to My Profile! 👋
+## 👋 Welcome to My Profile
 
-Hey there! I'm passionate about web development and UI/UX design. I've been honing my skills through various training courses and certifications, building a strong foundation of knowledge in this exciting field.
+Hi, I'm **Gaspare Tocci** — a passionate **Web Developer** and **Data Technician Apprentice**.  
+I love turning ideas into interactive, accessible, and visually engaging digital experiences.
 
-### Skills & Tools
-- Proficient with HTML5, CSS3, JavaScript
-- Experienced with tools like VS Code, Inkscape, Gimp, and Figma
-- Familiar with cybersecurity principles and website hosting concepts
+Currently, I'm expanding my skills in **data visualization and cloud technologies**, blending creativity with analytical thinking.
 
-### Current Focus
-Right now, I'm working on developing my portfolio to showcase my projects and skills effectively. Additionally, I'm continuously learning and improving my skills in HTML5, CSS3, JavaScript, Inkscape, Gimp, and more.
+---
 
-Feel free to connect with me and explore my work! 😊
+### 🧠 Skills & Tools
 
-<!--
-**Riello76/Riello76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Development**
+- HTML5, CSS3, JavaScript  
+- Responsive design and accessibility  
+- Bootstrap, AOS (Animate on Scroll)  
 
-Here are some ideas to get you started:
+**Design & Multimedia**
+- Inkscape → custom vector graphics  
+- GIMP → image editing and effects  
+- Figma → UI/UX design prototypes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data & Cloud**
+- Power BI, Tableau → dashboards and insights  
+- Microsoft Fabric, Azure → scalable data workflows  
+- Excel → data cleaning and reporting  
+
+**Other Tools**
+- VS Code → efficient coding workflow  
+- GitHub → version control and collaboration  
+
+---
+
+### 🎯 Current Focus
+
+Right now, I’m:
+- Building my personal **portfolio** to showcase front-end and data projects  
+- Completing a **Data Technician Bootcamp** to strengthen my analytical and technical skills  
+- Learning advanced **Power BI** and **Azure Fabric** integration for real-world data applications  
+
+---
+
+### 💬 Let’s Connect
+
