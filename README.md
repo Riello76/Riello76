@@ -17,7 +17,8 @@ Currently, I'm expanding my skills in **data visualization and cloud technologie
 **Design & Multimedia**
 - Inkscape → custom vector graphics  
 - GIMP → image editing and effects  
-- Figma → UI/UX design prototypes  
+- Figma → UI/UX design prototypes
+- Filmora → video editing and effects
 
 **Data & Cloud**
 - Power BI, Tableau → dashboards and insights  
