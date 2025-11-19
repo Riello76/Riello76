@@ -1,7 +1,10 @@
 # 🚀 Gaspare Tocci – Portfolio
 
 Hi, I'm **Gaspare Tocci** — a passionate **Web Developer** and **Data Technician Apprentice**.  
-I love turning ideas into **accessible, visually engaging, and meaningful digital experiences**. ✨
+I love turning ideas into **accessible, visually engaging, and meaningful digital experiences**. ✨  
+
+💡 **About my logo:**  
+It’s a personal emblem I created in **Inkscape**: a **paintbrush** (representing design and creativity) crossed with a **curly brace `{` }** (symbolizing coding). Both are tilted to form an **X**, reflecting the intersection of design and code — the essence of my work.
 
 Currently, my focus is on **improving my skills** across coding, design, video editing, and data work, while maintaining a healthy lifestyle through consistent **💪 fitness training**.
 
@@ -77,7 +80,6 @@ Alongside learning, I maintain a **healthy lifestyle** through consistent indoor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riello76)  
 📧 Email: [gaspare_tocci@yahoo.it](mailto:gaspare_tocci@yahoo.it)  
-
 
 ---
 
