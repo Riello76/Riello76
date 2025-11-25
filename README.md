@@ -105,7 +105,7 @@ Alongside learning, I maintain a **healthy lifestyle** through consistent indoor
 ### 🎯 Hobbies & Interests
 - Fitness & indoor training 💪 → discipline & focus  
 - Creative design & digital art 🎨 → creativity & attention to detail  
-- Strategy & role-playing games (e.g., Expedition 33, Elder Scrolls Online, Guild Wars 2, Diablo 3 & 4, Baldur's Gate 3, Final Fantasy series) 🎮 → strategic thinking, problem solving, teamwork  
+- Strategy & role-playing games (e.g., Expedition 33, Elder Scrolls Online, Guild Wars 2, Diablo 3 & 4, Baldur's Gate 3, Final Fantasy series, Tomb Raider series) 🎮 → strategic thinking, problem solving, teamwork  
 - Chess ♟ → critical thinking & planning  
 - Tech exploration & coding challenges 💻 → continuous learning
 
