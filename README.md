@@ -111,6 +111,14 @@ Alongside learning, I maintain a **healthy lifestyle** through consistent indoor
 
 ---
 
+### 🎉 Fun Fact
+I started indoor fitness a year ago at 122 kg… and after a year I was still 122 kg.  
+For months I thought every scale outside my house was broken — my home scale insisted I was 105 kg.  
+Turns out I was losing fat and gaining muscle at the same time.  
+Once I figured it out, I stopped stressing and kept training consistently!
+
+---
+
 ### 💬 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riello76)  
