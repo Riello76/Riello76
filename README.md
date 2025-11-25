@@ -1,6 +1,6 @@
 # 🚀 Gaspare Tocci – Portfolio
 
-## 🌐 Hi! I'm an **Entry-Level Web Developer** & **Entry-Level Data Technician/Analyst**, based in London
+## 🌐 Hi! I'm an **Entry-Level Web Developer** & **Entry-Level Data Technician/Analyst**, based in London.
 
 
 💡 I love transforming ideas into **accessible**, **visually engaging**, and **meaningful** digital experiences — blending creativity with clean, practical execution.
