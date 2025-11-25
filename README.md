@@ -9,7 +9,7 @@ I designed my personal emblem in **Inkscape**: a **paintbrush** (creativity & de
 Together, they form an **X**, symbolizing the intersection of **design** and **development** — the essence of my work.
 
 ### 🌱 Current Focus
-Actively honing my skills in **coding**, **design**, **video editing**, and **data work**, while maintaining a balanced lifestyle with **fitness training 💪**.
+Actively honing my skills in **coding**, **design**, **video/photo editing**, and **data work**, while maintaining a balanced lifestyle with **fitness training 💪**.
 
 
 ## 🧠 Skills & Tools
