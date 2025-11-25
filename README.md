@@ -62,6 +62,18 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 
 ---
 
+## 💼 Work Experience & Transferable Skills
+
+### 2009–2022 | Hospitality & Security
+- Worked in 4- and 5-star hotels across Italy and London as a **waiter**, providing **high-level customer service** and collaborating in **fast-paced team environments**.  
+- Served as **security officer** at Marina4 – Darsena, overseeing **CCTV monitoring** and **perimeter control**, demonstrating **strong attention to detail** and **responsibility**.
+
+### 2004–2005 | Military Service
+- Volunteer soldier and **corporal** at Ettore Manes Barracks (Genius Sapper Corps).  
+- Gained experience in **surveillance systems**, **resource management**, and **leadership** under **structured, high-responsibility conditions**.
+
+---
+
 ## 🌟 Career Goals
 
 I’m aiming for an **entry-level Data Analyst role** where I can continue learning, contribute value from day one, and grow professionally. 📊  
