@@ -102,6 +102,15 @@ Alongside learning, I maintain a **healthy lifestyle** through consistent indoor
 
 ---
 
+### 🎯 Hobbies & Interests
+- Fitness & indoor training 💪 → discipline & focus  
+- Creative design & digital art 🎨 → creativity & attention to detail  
+- Strategy & role-playing games (e.g., Elder Scrolls Online, Guild Wars 2, Diablo 3 & 4, Baldur's Gate 3, Final Fantasy series) 🎮 → strategic thinking, problem solving, teamwork  
+- Chess ♟ → critical thinking & planning  
+- Tech exploration & coding challenges 💻 → continuous learning
+
+---
+
 ### 💬 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspare-tocci/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riello76)  
