@@ -74,14 +74,15 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 
 
 ### 🔑 Transferable Skills
-- Customer Service  
-- Teamwork & Collaboration  
-- Attention to Detail  
-- Responsibility & Accountability  
-- Leadership  
-- Resource Management  
-- Structured Problem-Solving  
-- Surveillance & Monitoring
+- 🤝 Customer Service  
+- 👥 Teamwork & Collaboration  
+- 🎯 Attention to Detail  
+- 🧭 Responsibility & Accountability  
+- 🪖 Leadership  
+- 📦 Resource Management  
+- 🧩 Structured Problem-Solving  
+- 🎥 Surveillance & Monitoring
+
 
 ---
 
