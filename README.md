@@ -1,6 +1,6 @@
 # 🚀 Gaspare Tocci – Portfolio
 
-Hi, I'm **Gaspare Tocci** — a passionate **Web Developer** and **Data Technician/Analyst Apprentice**.  
+Hi, I'm **Gaspare Tocci** — a passionate **Entry-level Web Developer** and **Entry-level Data Technician/Analyst**.  
 I love turning ideas into **accessible, visually engaging, and meaningful digital experiences**. ✨  
 
 💡 **About my logo:**  
