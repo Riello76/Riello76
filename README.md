@@ -112,7 +112,7 @@ Alongside learning, I maintain a **healthy lifestyle** through consistent indoor
 ---
 
 ### 🎉 Fun Fact
-I started indoor fitness a year ago at 122 kg… and after a year I was still 122 kg.  
+I started indoor fitness a year ago(September 2024) at 122 kg… and after a year I was still 122 kg.  
 For months I thought every scale outside my house was broken — my home scale insisted I was 105 kg.  
 Turns out I was losing fat and gaining muscle at the same time.  
 Once I figured it out, I stopped stressing and kept training consistently!
