@@ -1,12 +1,18 @@
 # 🚀 Gaspare Tocci – Portfolio
+# 🌐 Hi, I'm **Gaspare Tocci**
 
-Hi, I'm **Gaspare Tocci** — a passionate **Entry-level Web Developer** and **Entry-level Data Technician/Analyst**.  
-I love turning ideas into **accessible, visually engaging, and meaningful digital experiences**. ✨  
+### 🚀 **Entry-Level Web Developer**  
+### 📊 **Entry-Level Data Technician/Analyst**
 
-💡 **About my logo:**  
-It’s a personal emblem I created in **Inkscape**: a **paintbrush** (representing design and creativity) crossed with a **curly brace `{` }** (symbolizing coding). Both are tilted to form an **X**, reflecting the intersection of design and code — the essence of my work.
+💡 I love transforming ideas into **accessible**, **visually engaging**, and  
+**meaningful** digital experiences — blending creativity with clean, practical execution.
 
-Currently, my focus is on **improving my skills** across coding, design, video editing, and data work, while maintaining a healthy lifestyle through consistent **💪 fitness training**.
+💡 **About my logo**  
+My logo is a personal emblem I designed in **Inkscape**: a **paintbrush** (representing creativity and design) crossed with a **curly brace `{ }`** (symbolizing coding).  
+Together, they form an **X**, representing the intersection between design and development — the core of my work.
+
+🌱 **Current Focus**  
+I'm actively improving my skills in **coding**, **design**, **video editing**, and **data work**, while keeping a balanced lifestyle through consistent **fitness training 💪**.
 
 ---
 
