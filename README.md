@@ -87,7 +87,9 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 
 ## 🌟 Career Goals
 
-I’m aiming for an **entry-level Data Analyst role** where I can continue learning, contribute value from day one, and grow professionally. 📊  
+I’m aiming for an **entry-level Data Analyst** or **Entry-Level Web Developer** role, where I can keep learning, contribute from day one, and grow professionally.  
+I have a strong preference for **remote / smart-working roles**, where I can be at my most focused and productive.
+
 
 ---
 
