@@ -78,11 +78,10 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 - 👥 Teamwork & Collaboration  
 - 🎯 Attention to Detail  
 - 🧭 Responsibility & Accountability  
-- 🪖 Leadership  
+- ⭐ Leadership  
 - 📦 Resource Management  
 - 🧩 Structured Problem-Solving  
 - 🎥 Surveillance & Monitoring
-
 
 ---
 
