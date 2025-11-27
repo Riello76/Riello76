@@ -140,19 +140,19 @@ Seeking **entry-level Data Analyst** or **Web Developer** roles.
 
 ---
 
-## ⚡ Personal Note
-Quit smoking over a year ago and maintain a consistent **indoor fitness** routine at home, strengthening **discipline, focus, and mindset**.
-
-**Fun Fact:** After a year of indoor fitness, I was losing fat and gaining muscle at the same time. For months, I thought every scale outside my house was broken because they all showed 122 kg — while my home scale insisted I was 105 kg! This “scale confusion” had me totally paranoid 😅.— classic “scale lies” moment! 😅
-
----
-
 ### 🎯 Hobbies & Interests
 - 💪 Fitness & indoor training → discipline & focus  
 - 🎨 Creative design & digital art → creativity & attention to detail  
 - 🎮 Strategy & role-playing games → strategic thinking, problem solving, teamwork  
 - ♟ Chess → critical thinking & planning  
 - 💻 Tech exploration & coding challenges → continuous learning
+
+---
+
+## ⚡ Personal Note
+Quit smoking over a year ago and maintain a consistent **indoor fitness** routine at home, strengthening **discipline, focus, and mindset**.
+
+**Fun Fact:** After a year of indoor fitness, I was losing fat and gaining muscle at the same time. For months, I thought every scale outside my house was broken because they all showed 122 kg — while my home scale insisted I was 105 kg! This “scale confusion” had me totally paranoid 😅.— classic “scale lies” moment! 😅
 
 ---
 
