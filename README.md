@@ -83,6 +83,7 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 - 🧩 Structured Problem-Solving  
 - 🎥 Surveillance & Monitoring
 - 🔥 Working Under Pressure
+- 🗂️ Organization
 
 ---
 
