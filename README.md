@@ -107,7 +107,6 @@ Completed a 45-minute intensive course covering core design principles: **color 
 ### 💻 Web Development Bootcamp — *Get Set UK*
 **Issued:** Apr 2024 · **Expires:** Jul 2024  
 Mastered **HTML5**, **CSS3 best practices**, foundational **JavaScript**, and **Figma**. Completed multiple hands-on projects, all on GitHub:  
-👉 https://github.com/Riello76/Bootcamp-GetSetUK  
 **Skills:** HTML5, CSS3, JavaScript Basics, Figma, Responsive Design
 
 ### 🛡️ ACT E-Learning Certificate — *Security Industry Authority*
