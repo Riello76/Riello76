@@ -77,14 +77,19 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 
 ## 💼 Work Experience & Transferable Skills
 
-### 2009–2022 | Hospitality & Security
-- **Customer service** & **teamwork** in 4- and 5-star hotels across Italy and London.  
-- **Attention to detail**, **responsibility**, and **CCTV monitoring** as security officer at Marina4 – Darsena.
+### 2009–2022 | Hospitality, Restaurants & Security  
+- Delivered high-level **customer service** and **teamwork** in 4- and 5-star hotels and restaurants across Italy and London.  
+- Managed operations with strong **organization**, **attention to detail**, and **responsibility**, ensuring smooth service even during peak pressure.  
+- Security officer at Marina4 – Darsena (*marina/harbour area*): handled **CCTV surveillance**, **incident monitoring**, and **problem-solving** in fast-paced environments.  
+- Strengthened **working under pressure** and **resource management** through continuous frontline activity.
 
-### 2004–2005 | Military Service
-- Volunteer soldier & **corporal** at Ettore Manes Barracks (Genius Sapper Corps).  
-- Developed **leadership**, **resource management**, and **structured problem-solving** skills in high-responsibility environments.
+### 2004–2005 | Military Service  
+- Volunteer soldier and **corporal** at Ettore Manes Barracks (Genius Sapper Corps).  
+- Led teams and applied **leadership**, **discipline**, and **accountability** in demanding situations.  
+- Developed **structured problem-solving**, **organization**, and **resource management** through mission planning and field operations.  
+- Built resilience and adaptability through high-pressure, rapid-response tasks.
 
+---
 
 ### 🔑 Transferable Skills
 - 🤝 Customer Service  
@@ -94,9 +99,10 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 - ⭐ Leadership  
 - 📦 Resource Management  
 - 🧩 Structured Problem-Solving  
-- 🎥 Surveillance & Monitoring
-- 🔥 Working Under Pressure
-- 🗂️ Organization
+- 🎥 Surveillance & Monitoring  
+- 🔥 Working Under Pressure  
+- 🗂️ Organization  
+
 
 ---
 
