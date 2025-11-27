@@ -77,7 +77,7 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 
 ## 💼 Work Experience & Transferable Skills
 
-### 2009–2022 | Hospitality, Restaurants & Security  
+### 2009–2022 | Hospitality & Security  
 - Delivered high-level **customer service** and **teamwork** in 4- and 5-star hotels and restaurants across Italy and London.  
 - Managed operations with strong **organization**, **attention to detail**, and **responsibility**, ensuring smooth service even during peak pressure.  
 - Security officer at Marina4 – Darsena (*marina/harbour area*): handled **CCTV surveillance**, **incident monitoring**, and **problem-solving** in fast-paced environments.  
