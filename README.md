@@ -109,6 +109,12 @@ Completed a 45-minute intensive course covering core design principles: **color 
 Mastered **HTML5**, **CSS3 best practices**, foundational **JavaScript**, and **Figma**. Completed multiple hands-on projects, all on GitHub:  
 **Skills:** HTML5, CSS3, JavaScript Basics, Figma, Responsive Design
 
+6### 🐍 Level 3 Data Technician Skills Bootcamp — *Just IT*
+**Period:** 06/10/2025 – 28/11/2025  
+Completed intensive training in **data analysis**, **visualization**, and programming fundamentals. Covered **Python (Pandas, NumPy, Seaborn, Matplotlib)**, **SQL**, **data cleaning & analysis**, **Power BI**, **Tableau**, **Excel (basic)**, and **Microsoft Azure**.  
+**Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, Tableau, Excel, Azure
+
+
 ### 🛡️ ACT E-Learning Certificate — *Security Industry Authority*
 Completed 5 modules on security awareness: terrorism knowledge, identifying vulnerabilities, recognising suspicious activity, handling suspicious items, firearms/weapon response.  
 **Skills:** Threat Awareness, Vulnerability Identification, Security Response, Situational Judgement
