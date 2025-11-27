@@ -67,10 +67,6 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 - VS Code → development environment  
 - GitHub → version control & project hosting  
 
-
-- 🖥 VS Code → efficient coding workflow  
-- 🔗 GitHub → version control & collaboration  
-
 ---
 
 ## 📂 Portfolio & Projects
