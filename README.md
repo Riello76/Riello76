@@ -13,43 +13,60 @@ Together, they form an **X**, symbolizing the intersection of **design** and **d
 Actively honing my skills in **coding**, **design**, **video/photo editing**, and **data work**, while maintaining a balanced lifestyle with **fitness training 💪**.
 
 
-## 🧠 Skills & Tools
+## 🌐 Web Development
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- 💻 HTML5, CSS3, JavaScript  
-- 📱 Responsive design & accessibility  
-- ⚡ Bootstrap, AOS (Animate on Scroll)  
+**Core Skills**
+- HTML5, CSS3, JavaScript  
+- Responsive and accessible UI  
+- Bootstrap & AOS (Animate on Scroll)  
+- Figma → UI/UX wireframes, layout design, and interface prototyping  
 
-### 🎨 Design & Multimedia
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
-![GIMP](https://img.shields.io/badge/GIMP-52635F?style=flat-square&logo=gimp&logoColor=white) 
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white) 
-![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=filmora&logoColor=white) 
+---
 
-- 🖌 Inkscape → custom vector graphics  
-- 🖼 GIMP → image editing and effects  
-- 🎨 Figma → UI/UX design prototypes  
-- 🎬 Filmora → video editing and effects  
+## 🎨 Design & Multimedia
 
-### 📊 Data & Cloud
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-4E99C2?style=flat-square&logo=tableau&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![GIMP](https://img.shields.io/badge/GIMP-52635F?style=flat-square&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=filmora&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
 
-- 📈 Power BI, Tableau → dashboards & insights  
-- ☁️ Microsoft Fabric, Azure → scalable data workflows  
-- 📊 Excel → data cleaning & reporting  
-- 🐍 Python & Pandas → data analysis & manipulation  
+**Creative Tools**
+- Inkscape → custom vector graphics  
+- GIMP → image editing & advanced effects  
+- Filmora → video editing & post-production  
+- OBS Studio → recording, screen capture & streaming  
 
-### 🛠 Other Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+---
+
+## 📊 Data & Cloud
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-4E99C2?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Skills**
+- Power BI & Tableau → dashboards, insights, and KPIs  
+- Excel → data cleaning, pivot tables, advanced formulas  
+- Python (Pandas) → data manipulation & analysis  
+- Microsoft Fabric & Azure → basic cloud workflows  
+
+---
+
+## 🛠 Other Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- VS Code → development environment  
+- GitHub → version control & project hosting  
+
 
 - 🖥 VS Code → efficient coding workflow  
 - 🔗 GitHub → version control & collaboration  
