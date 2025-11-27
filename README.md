@@ -109,7 +109,7 @@ Completed a 45-minute intensive course covering core design principles: **color 
 Mastered **HTML5**, **CSS3 best practices**, foundational **JavaScript**, and **Figma**. Completed multiple hands-on projects, all on GitHub:  
 **Skills:** HTML5, CSS3, JavaScript Basics, Figma, Responsive Design
 
-6### 🐍 Level 3 Data Technician Skills Bootcamp — *Just IT*
+### 🐍 Level 3 Data Technician Skills Bootcamp — *Just IT*
 **Period:** 06/10/2025 – 28/11/2025  
 Completed intensive training in **data analysis**, **visualization**, and programming fundamentals. Covered **Python (Pandas, NumPy, Seaborn, Matplotlib)**, **SQL**, **data cleaning & analysis**, **Power BI**, **Tableau**, **Excel (basic)**, and **Microsoft Azure**.  
 **Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, Tableau, Excel, Azure
