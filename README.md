@@ -1,5 +1,5 @@
-# 🚀 Gaspare Tocci | Full-Stack Aspirations & Data Enthusiast
-### *Bridging Creative Design with Data-Driven Insights*
+# 🚀 Gaspare Tocci | Entry-Level Web Developer & Data Analyst
+### *Building Responsive Web Applications & Unlocking Data Insights*
 
 **📍 Based in London** [**LinkedIn**](https://www.linkedin.com/in/gaspare-tocci/) | [**GitHub**](https://github.com/Riello76) | [**Portfolio Website**](https://riello76.github.io/) | [**Email**](mailto:gaspare_tocci@yahoo.it)
 
