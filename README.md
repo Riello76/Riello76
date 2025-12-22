@@ -36,7 +36,7 @@ Actively honing my skills in **coding**, **design**, **video/photo editing**, an
 **Creative Tools**
 - Inkscape → custom vector graphics  
 - GIMP → image editing & advanced effects  
-- Filmora → video editing & post-production  
+- Filmora & Davinci Resolve → video editing & post-production  
 - OBS Studio → recording, screen capture & streaming
 
 ---
