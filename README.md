@@ -97,13 +97,17 @@ Applied across web development, digital design, photo editing, and video product
 
 ## 🤝 Connect With Me
 
-📧 [gaspare_tocci@yahoo.it](mailto:gaspare_tocci@yahoo.it)
+📧 **Email**
+[gaspare_tocci@yahoo.it](mailto:gaspare_tocci@yahoo.it)
 
-🔗 LinkedIn: linkedin.com/in/gaspare-tocci
+🔗 **LinkedIn**
+https://www.linkedin.com/in/gaspare-tocci-928496112
 
-🌐 Portfolio: riello76.github.io
+🌐 **Portfolio**
+https://riello76.github.io/
 
-💻 GitHub: github.com/Riello76
+💻 **GitHub**
+https://github.com/Riello76
 
 ---
 
