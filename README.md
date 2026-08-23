@@ -20,11 +20,11 @@
 
 ## 🌐 About Me
 
-I am an aspiring Web Developer, Web Designer, and Digital Creative with a passion for building digital experiences that combine functionality, creativity, and user-focused design.
+I'm a Web Developer focused on building and maintaining practical, responsive websites and digital experiences.
 
-My professional background spans military service, security operations, and hospitality environments, where I developed strong leadership, adaptability, problem-solving abilities, and attention to detail.
+My experience includes front-end development, CMS management, dynamic pages, responsive layouts and website administration, with hands-on experience working on real-world web projects.
 
-Today, I apply those same qualities to web development, digital design, and multimedia content creation, transforming ideas into engaging digital experiences.
+I also have a background in digital design and data technologies, which gives me a practical and analytical approach to problem-solving and continuous improvement.
 
 ---
 
@@ -32,22 +32,29 @@ Today, I apply those same qualities to web development, digital design, and mult
 
 ### 💻 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-FF2A6D?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge\&logo=css3\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-CB5FFF?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-9D4EDD?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF2A6D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-CB5FFF?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-9D4EDD?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🧩 CMS & Development Tools
+
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF2A6D?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-CB5FFF?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00F5FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ### 🎨 Design & Creative Tools
 
-![Figma](https://img.shields.io/badge/Figma-00F5FF?style=for-the-badge\&logo=figma\&logoColor=black)
-![Inkscape](https://img.shields.io/badge/Inkscape-FF2A6D?style=for-the-badge\&logo=inkscape\&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-CB5FFF?style=for-the-badge\&logo=gimp\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00F5FF?style=for-the-badge&logo=figma&logoColor=black)
+![Inkscape](https://img.shields.io/badge/Inkscape-FF2A6D?style=for-the-badge&logo=inkscape&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-CB5FFF?style=for-the-badge&logo=gimp&logoColor=white)
 
 ### 🎬 Multimedia & Content Creation
 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-00F5FF?style=for-the-badge\&logo=davinciresolve\&logoColor=black)
-![Filmora](https://img.shields.io/badge/Filmora-FF2A6D?style=for-the-badge\&logo=wondershare\&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-CB5FFF?style=for-the-badge\&logo=obsstudio\&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-00F5FF?style=for-the-badge&logo=davinciresolve&logoColor=black)
+![Filmora](https://img.shields.io/badge/Filmora-FF2A6D?style=for-the-badge&logo=wondershare&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-CB5FFF?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ---
 
@@ -55,58 +62,40 @@ Today, I apply those same qualities to web development, digital design, and mult
 
 🔹 Responsive Web Development
 
-🔹 Front-End Design
+🔹 Front-End Development
+
+🔹 CMS & Website Administration
 
 🔹 UI / UX Design
 
 🔹 Graphic Design & Branding
 
-🔹 Video Editing & Content Creation
-
-🔹 Digital Media Production
+🔹 Video Editing & Digital Content
 
 ---
 
 ## 🎯 Current Focus
 
-* Designing and developing responsive websites
-
-* Improving front-end development and UI design skills
-
-* Creating digital content through video editing, graphic design and visual storytelling
-
-* Seeking opportunities in Web Development, Web Design and Creative Technology
-
----
-
-## 💼 Transferable Skills
-
-### Discipline & Leadership
-
-Developed through military service and leadership responsibilities in high-pressure environments.
-
-### Problem Solving & Adaptability
-
-Built through years of experience in security operations, hospitality, and customer-facing roles.
-
-### Attention to Detail
-
-Applied across web development, digital design, photo editing, and video production projects.
+* Developing and maintaining responsive websites
+* Working with CMS platforms and dynamic web content
+* Improving front-end development and UI/UX skills
+* Building practical web projects and expanding my professional experience
+* Seeking opportunities in Web Development, Front-End Development and Website Administration
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email**
-[gaspare_tocci@yahoo.it](mailto:gaspare_tocci@yahoo.it)
+📧 **Email**  
+gaspare_tocci@yahoo.it
 
-🔗 **LinkedIn**
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/gaspare-tocci-928496112
 
-🌐 **Portfolio**
+🌐 **Portfolio**  
 https://riello76.github.io/
 
-💻 **GitHub**
+💻 **GitHub**  
 https://github.com/Riello76
 
 ---
