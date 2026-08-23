@@ -1,6 +1,6 @@
 # ⚡ Gaspare Tocci
 
-### Web Developer • Web Designer • Digital Creative
+### Web Developer • Front-End • CMS & Website Administratio
 
 📍 London, UK
 
