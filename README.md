@@ -1,6 +1,6 @@
 # ⚡ Gaspare Tocci
 
-### Web Developer • Front-End • CMS & Website Administratio
+### Web Developer • Front-End • CMS & Website Administration
 
 📍 London, UK
 
