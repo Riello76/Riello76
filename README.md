@@ -22,6 +22,8 @@
 
 I'm a Web Developer focused on building and maintaining practical, responsive websites and digital experiences.
 
+I built my personal portfolio from scratch, writing all HTML pages and sections myself and publishing it on GitHub Pages.
+
 My experience includes front-end development, CMS management, dynamic pages, responsive layouts and website administration, with hands-on experience working on real-world web projects.
 
 I also have a background in digital design and data technologies, which gives me a practical and analytical approach to problem-solving and continuous improvement.
@@ -35,7 +37,6 @@ I also have a background in digital design and data technologies, which gives me
 ![HTML5](https://img.shields.io/badge/HTML5-FF2A6D?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-CB5FFF?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-9D4EDD?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧩 CMS & Development Tools
 
@@ -52,7 +53,6 @@ I also have a background in digital design and data technologies, which gives me
 
 ### 🎬 Multimedia & Content Creation
 
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-00F5FF?style=for-the-badge&logo=davinciresolve&logoColor=black)
 ![Filmora](https://img.shields.io/badge/Filmora-FF2A6D?style=for-the-badge&logo=wondershare&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-CB5FFF?style=for-the-badge&logo=obsstudio&logoColor=white)
 
